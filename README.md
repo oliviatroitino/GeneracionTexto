@@ -10,6 +10,7 @@ Este proyecto abarca a tres textos de la literatura española, entrena un modelo
 |_ Tarea2_Lazarillo.ipynb # entrenamiento y generación de texto del Lazarillo de Tormes
 |_ Tarea2_Quijote.ipynb # entrenamiento y generación de texto del Quijote
 |_ Interaccion.ipynb # interacción entre los tres modelos
+|_ README.md
 ```
 
 ## Conclusiones finales por notebook
